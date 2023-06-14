@@ -54,21 +54,17 @@ mapview(ia_income, zcol="estimate")
 # Tour of RStudio
 
 
-# Coding in RStudio ----
+# Coding in RStudio
 
 # Code can entered in the console or saved in a .R script
 
 # Lines beginning with hash / pound sign are comments and do not run
-
 # To run a line of code, place cursor on the line, press control-enter (Windows)
 #                                                        command-enter (Mac)
-
 # To run MULTIPLE lines of code, highlight a block of code, press control-enter (Windows)
 #                                                                 command-enter (Mac)
 
-
-
-# Extending R: Installing Packages ----
+# Extending R: Installing Packages
 
 # Third-party packages provide extra functionality by providing 
 # both functions and data. Before writing your own complex function, do some 
@@ -494,7 +490,7 @@ hist(mtcars$mpg)
 
 # Showing off with R ----
 
-# Tidycensus + tmap ----
+# Tidycensus + tmap
 # Use tidyCensus to get the decennial data for all counties in the state of Iowa
 PolkCounty_race <- get_decennial(
   geography = "tract",
@@ -555,7 +551,7 @@ tm_shape(PolkCounty_race) +
 
 
 
-# Population Pyramid ----
+# Population Pyramid
 # The list of variables containing age / sex breakdowns
 myVars <- c("DP1_0026C", "DP1_0027C", "DP1_0028C", "DP1_0029C", "DP1_0030C", "DP1_0031C", "DP1_0032C", "DP1_0033C", "DP1_0034C", "DP1_0035C", "DP1_0036C", "DP1_0037C", "DP1_0038C", "DP1_0039C", "DP1_0040C", "DP1_0041C", "DP1_0042C", "DP1_0043C", "DP1_0050C", "DP1_0051C", "DP1_0052C", "DP1_0053C", "DP1_0054C", "DP1_0055C", "DP1_0056C", "DP1_0057C", "DP1_0058C", "DP1_0059C", "DP1_0060C", "DP1_0061C", "DP1_0062C", "DP1_0063C", "DP1_0064C", "DP1_0065C", "DP1_0066C", "DP1_0067C")
 
@@ -649,20 +645,6 @@ makePyramid("Pioneer")
 # - Read an Excel file
 # - Read from a Google Sheet
 # - Use a Google API (Places, Geocoding)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
