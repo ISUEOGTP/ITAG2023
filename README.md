@@ -12,9 +12,9 @@ https://posit.co/products/open-source/rstudio/
 GIS Task Sheet Series \
 https://www.extension.iastate.edu/communities/gis/quicktasksheets
 
-Feedback Survey
+Feedback Survey \
 https://go.iastate.edu/OJJTB7
-
+![](feedback_survey_QR.png){width=50%}
 
 
 REFERENCES
