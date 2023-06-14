@@ -3,6 +3,9 @@ A repo to store materials for ITAG 2023 presentation.
 
 USEFUL LINKS
 ------------------------------------------------------------------------------------
+Link to this gitHub repo \
+<img src="https://raw.githubusercontent.com/ISUEOGTP/ITAG2023/main/link_to_github_QR.png" width=50%>
+
 Installing R \
 https://cran.r-project.org/
 
