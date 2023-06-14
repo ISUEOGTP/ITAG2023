@@ -13,18 +13,30 @@ GIS Task Sheet Series \
 https://www.extension.iastate.edu/communities/gis/quicktasksheets
 
 Feedback Survey \
-https://go.iastate.edu/OJJTB7
-![](feedback_survey_QR.png){width=50%}
+https://go.iastate.edu/OJJTB7 \
+<img src="https://raw.githubusercontent.com/ISUEOGTP/ITAG2023/main/feedback_survey_QR.png" width =50%>
 
 
 REFERENCES
 ------------------------------------------------------------------------------------
-R for Data Science (book) \
-https://r4ds.had.co.nz/
 
-Analyzing US Census Data: Methods, Maps, and Models in R \
-https://walker-data.com/census-r/
+### R for Data Science
+<a href="https://r4ds.had.co.nz/">
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width =300px>
+</a>
 
-Geocomputation with R \
-https://r.geocompx.org/
+
+
+
+### Analyzing US Census Data: Methods, Maps, and Models in R
+<a href="https://walker-data.com/census-r/">
+<img src="https://walker-data.com/census-r/img/book_cover.png" width =300px>
+</a>
+
+
+
+### Geocomputation with R 
+<a href="https://r.geocompx.org/">
+<img src="https://r.geocompx.org/images/cover.png" width =300px>
+</a>
 
